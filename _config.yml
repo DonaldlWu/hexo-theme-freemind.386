@@ -1,16 +1,16 @@
-slogan: "go go power ranger~"
+slogan: "Go Go Power Ranger ~"
 
-show_heart: false
+show_heart: true
 
 show_slogan: true
 
 menu:
   - title: Archives
-    url: /donaldwu.github.com/archives/index.html
+    url: archives
     intro: "All the articles."
     # icon: "fa fa-archive"
   - title: About
-    url: /donaldwu.github.com/about/darrenwu.html
+    url: about/darrenwu.html
     intro: "About me."
     # icon: "fa fa-user"
 
@@ -38,21 +38,24 @@ links:
 
 widgets:
 - search
-#- category
-#- tagcloud
-#- recent_posts
+- category
+- tagcloud
+- recent_posts
 - links
 
 rss: 
-fancybox: true
+fancybox: false
 favicon: favicon.png
 duoshuo_shortname:
 
 
 # Analytics (change to yours)
-#google_analytics:
-#  enable: false
-#  siteid: 
+google_analytics:
+  enable: false
+  siteid: 0000000
+baidu_tongji:
+  enable: false
+  siteid: 0000000
 
 # search
 #swiftype_key: ZP2ZSuHgipSZfRyU8uTR
