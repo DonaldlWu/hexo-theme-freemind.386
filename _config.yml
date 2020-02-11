@@ -38,9 +38,9 @@ links:
 
 widgets:
 - search
-- category
-- tagcloud
-- recent_posts
+#- category
+#- tagcloud
+#- recent_posts
 - links
 
 rss: 
