@@ -31,10 +31,10 @@ links:
     url: https://github.com/DonaldlWu
     intro: "My Github account."
     icon: "fa fa-github"
-  # - title: "My LinkedIn"
-  #   url: http://www.linkedin.com/in/xxx
-  #   intro: "My Linkin account."
-  #   icon: "fa fa-linkedin"
+   - title: "My Twitter"
+     url: https://twitter.com/Deirenwu
+     intro: "My Twitter account."
+     icon: "fa fa-twitter-square"
 
 widgets:
 - search
